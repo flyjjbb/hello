@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 1来自windows的提交。
 2来自windows的提交。
+=======
+空的
+<<<<<<< HEAD
+1来自windows的提交。
+2来自windows的提交。
+=======
+来自windows的提交。
+>>>>>>> 00d1a9d5b461f889b33e0fd77519701062635ac7
+>>>>>>> 00ecd8d190adf44434b49afd6e352dad97ea0702
